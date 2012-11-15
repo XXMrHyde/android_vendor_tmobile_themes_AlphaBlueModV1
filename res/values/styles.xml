@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="alphablue.TextAppearance.WindowTitle" parent="@android:style/TextAppearance">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/alphablue_white</item>
+    </style>
+    <style name="alphablue.Battery_Offset" parent="@android:style/Theme">
+        <item name="android:textSize">11.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/alphablue_white</item>
+        <item name="android:layout_gravity">bottom|left|center</item>
+        <item name="android:paddingBottom">1.0dip</item>
+        <item name="android:layout_marginRight">4.0dip</item>
+    </style>
+    <style name="alphablue.Battery_Center" parent="@android:style/Theme">
+        <item name="android:textSize">9.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/alphablue_white</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginRight">0.0dip</item>
+    </style>
+    <style name="alphablue.Button.Glow" parent="@android:style/Widget.Holo.Button.Borderless">
+        <item name="android:background">@drawable/alphablue_button_glow</item>
+        <item name="android:paddingLeft">4.0dip</item>
+        <item name="android:paddingRight">4.0dip</item>
+    </style>
+</resources>

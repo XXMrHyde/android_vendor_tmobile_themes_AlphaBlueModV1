@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/progress_horizontal">@drawable/progress_horizontal_holo_dark_2</item>
+    <item name="drawable/panel_background">@drawable/frameworks_res_dialog_full_holo_dark</item>
+    <item name="drawable/popup_full_dark">@drawable/frameworks_res_dialog_full_holo_dark</item>
+    <item name="drawable/activity_title_bar">@drawable/frameworks_res_list_section_divider_holo_dark</item>
+    <item name="drawable/bg_button">@drawable/twicca_bg_button</item>
+    <item name="drawable/bg_radio">@drawable/twicca_bg_radio</item>
+    <item name="drawable/light_bg_button">@drawable/twicca_light_bg_button</item>
+    <item name="drawable/light_bg_radio">@drawable/twicca_light_bg_radio</item>
+    <item name="drawable/ui_more">@drawable/twicca_ui_more</item>
+</resource-redirections>
