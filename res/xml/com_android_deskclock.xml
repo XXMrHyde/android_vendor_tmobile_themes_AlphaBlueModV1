@@ -6,4 +6,6 @@
     <item name="drawable/appwidget_aokp_white_clock_dial">@drawable/com_android_deskclock_appwidget_aokp_white_clock_dial</item>
     <item name="drawable/appwidget_aokp_clock_minute">@drawable/com_android_deskclock_appwidget_aokp_clock_minute</item>
     <item name="drawable/appwidget_aokp_clock_hour">@drawable/com_android_deskclock_appwidget_aokp_clock_hour</item>
+	<item name="drawable/stat_notify_alarm">@drawable/com_android_deskclock_stat_notify_alarm</item>
+	<item name="drawable/stat_notify_timer">@drawable/com_android_deskclock_stat_notify_timer</item>
 </resource-redirections>
